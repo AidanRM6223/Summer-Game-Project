@@ -5,6 +5,21 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Enemy
+  - DeathZone
+  - Checkpoint
+  - CMCam
+  - DashBar
+  - HealthBar
+  - Spikes
+  - GrapplingPivot
+  - FxTemporaire
+  - PatrolPoint
+  - PlayerBullet
+  - AudioManager
+  - Portal
+  - MovingPlatform
+  - Destroyable
   layers:
   - Default
   - TransparentFX
@@ -14,15 +29,15 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Box
+  - Enemy
+  - Ground
+  - Rope
+  - Pivot
+  - Portal
+  - Background
+  - Hazard
   - 
   - 
   - 
@@ -41,4 +56,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2888607721
+    locked: 0
+  - name: Midground
+    uniqueID: 13403877
+    locked: 0
+  - name: Characters
+    uniqueID: 3412963705
+    locked: 0
+  - name: Characters/Enemies
+    uniqueID: 165402283
+    locked: 0
+  - name: Characters / Collectibles
+    uniqueID: 4046918977
+    locked: 0
+  - name: Ground
+    uniqueID: 487248809
+    locked: 0
+  - name: Canvas
+    uniqueID: 1771550789
     locked: 0

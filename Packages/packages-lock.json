@@ -1,7 +1,14 @@
 {
   "dependencies": {
+    "com.coffee.ui-particle": {
+      "version": "https://github.com/mob-sakai/ParticleEffectForUGUI.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b0e2688c38a695c301be85ce9542d154a94627a2"
+    },
     "com.unity.2d.animation": {
-      "version": "3.2.2",
+      "version": "3.2.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -20,8 +27,17 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.2d.ik": {
+      "version": "2.0.2-preview.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.common": "2.0.2"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.2d.path": {
-      "version": "2.0.4",
+      "version": "2.0.5",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -52,13 +68,13 @@
       "dependencies": {}
     },
     "com.unity.2d.spriteshape": {
-      "version": "3.0.11",
+      "version": "3.0.12",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.1.0",
         "com.unity.2d.common": "2.0.2",
-        "com.unity.2d.path": "2.0.4"
+        "com.unity.2d.path": "2.0.5"
       },
       "url": "https://packages.unity.com"
     },
@@ -67,6 +83,23 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {}
+    },
+    "com.unity.2d.tilemap.extras": {
+      "version": "https://github.com/Unity-Technologies/2d-extras.git#master",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.tilemap": "1.0.0",
+        "com.unity.2d.tilemap": "1.0.0"
+      },
+      "hash": "a02a358d589175389a9d9caea790ed148b536c5d"
+    },
+    "com.unity.cinemachine": {
+      "version": "2.6.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
@@ -103,6 +136,50 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.probuilder": {
+      "version": "4.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.settings-manager": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.render-pipelines.core": {
+      "version": "7.3.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.render-pipelines.universal": {
+      "version": "7.3.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "7.3.1",
+        "com.unity.shadergraph": "7.3.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.settings-manager": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.shadergraph": {
+      "version": "7.3.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "7.3.1"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {

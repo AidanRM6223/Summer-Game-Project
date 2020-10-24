@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: bd8d983bfd51e274fb4f901d16a8adfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6504090109950332714
+    second: wolfsheet1_0
+  - first:
+      213: -8554926187522005066
+    second: wolfsheet1_1
+  - first:
+      213: -6958861156679937414
+    second: wolfsheet1_2
+  - first:
+      213: -5001081346104882815
+    second: wolfsheet1_3
+  - first:
+      213: -1593187259669133572
+    second: wolfsheet1_4
+  - first:
+      213: -6926429107137749909
+    second: wolfsheet1_5
+  - first:
+      213: 8021918276550481157
+    second: wolfsheet1_6
+  - first:
+      213: 7404320280896791928
+    second: wolfsheet1_7
+  - first:
+      213: -2430393023287588171
+    second: wolfsheet1_8
+  - first:
+      213: -5092845092555646918
+    second: wolfsheet1_9
+  - first:
+      213: -1732505189353496963
+    second: wolfsheet1_10
+  - first:
+      213: -208909696368203006
+    second: wolfsheet1_11
+  - first:
+      213: 6640856516662170040
+    second: wolfsheet1_12
+  - first:
+      213: -7005624278902499926
+    second: wolfsheet1_13
+  - first:
+      213: -4408769769723882930
+    second: wolfsheet1_14
+  - first:
+      213: 5036163949723037448
+    second: wolfsheet1_15
+  - first:
+      213: -2645662253144107830
+    second: wolfsheet1_16
+  - first:
+      213: 5727575950173681214
+    second: wolfsheet1_17
+  - first:
+      213: -5048966745781339461
+    second: wolfsheet1_18
+  - first:
+      213: -4415020824791801895
+    second: wolfsheet1_19
+  - first:
+      213: -5887456213747316114
+    second: wolfsheet1_20
+  - first:
+      213: -7377634391129206724
+    second: wolfsheet1_21
+  - first:
+      213: -6898781352384922298
+    second: wolfsheet1_22
+  - first:
+      213: 1684055312406961835
+    second: wolfsheet1_23
+  - first:
+      213: -982212359452996268
+    second: wolfsheet1_24
+  - first:
+      213: -6232832273201411306
+    second: wolfsheet1_25
+  - first:
+      213: 6144117646074773795
+    second: wolfsheet1_26
+  - first:
+      213: 3392394737018576379
+    second: wolfsheet1_27
+  - first:
+      213: 6353479552704395789
+    second: wolfsheet1_28
+  - first:
+      213: -5679207695159106342
+    second: wolfsheet1_29
+  - first:
+      213: 3454694489847855185
+    second: wolfsheet1_30
+  - first:
+      213: 913000133966436184
+    second: wolfsheet1_31
+  - first:
+      213: -5869784790312068713
+    second: wolfsheet1_32
+  - first:
+      213: 386956346309468350
+    second: wolfsheet1_33
+  - first:
+      213: -2498458515434605446
+    second: wolfsheet1_34
+  - first:
+      213: -7654308578536232271
+    second: wolfsheet1_35
+  - first:
+      213: 1178014730710684178
+    second: wolfsheet1_36
+  - first:
+      213: -3328449194814139668
+    second: wolfsheet1_37
+  - first:
+      213: 814245466184866374
+    second: wolfsheet1_38
+  - first:
+      213: -2416009803156313005
+    second: wolfsheet1_39
+  - first:
+      213: 8810020620405393221
+    second: wolfsheet1_40
+  - first:
+      213: -7171463155061778278
+    second: wolfsheet1_41
+  - first:
+      213: 1408925835489547187
+    second: wolfsheet1_42
+  - first:
+      213: 1874587724203113672
+    second: wolfsheet1_43
+  - first:
+      213: 5017733330035557552
+    second: wolfsheet1_44
+  - first:
+      213: 2563949017702454524
+    second: wolfsheet1_45
+  - first:
+      213: -8826519690009264217
+    second: wolfsheet1_46
+  - first:
+      213: 2603434821816694251
+    second: wolfsheet1_47
+  - first:
+      213: 1381292284371437159
+    second: wolfsheet1_48
+  - first:
+      213: -1991760394403811308
+    second: wolfsheet1_49
+  - first:
+      213: 7712916096052772488
+    second: wolfsheet1_50
+  - first:
+      213: -1592013544379571362
+    second: wolfsheet1_51
+  - first:
+      213: -1168334859646784970
+    second: wolfsheet1_52
+  - first:
+      213: 4699810304881585040
+    second: wolfsheet1_53
+  - first:
+      213: -2130485542343861119
+    second: wolfsheet1_54
+  - first:
+      213: 1342799183599786511
+    second: wolfsheet1_55
+  - first:
+      213: 5271342538253792417
+    second: wolfsheet1_56
+  - first:
+      213: 5618355647899507970
+    second: wolfsheet1_57
+  - first:
+      213: -1283416012210316219
+    second: wolfsheet1_58
+  - first:
+      213: 4690914483327172663
+    second: wolfsheet1_59
+  - first:
+      213: 4416194184308030892
+    second: wolfsheet1_60
+  - first:
+      213: -4638745160737626498
+    second: wolfsheet1_61
+  - first:
+      213: -5633955977391852956
+    second: wolfsheet1_62
+  - first:
+      213: 6447418777468570330
+    second: wolfsheet1_63
+  - first:
+      213: 2091488797763130687
+    second: wolfsheet1_64
+  - first:
+      213: 6967342859715138059
+    second: wolfsheet1_65
+  - first:
+      213: 6689571022290801119
+    second: wolfsheet1_66
+  - first:
+      213: -5474809069796482041
+    second: wolfsheet1_67
+  - first:
+      213: 2589747494429754797
+    second: wolfsheet1_68
+  - first:
+      213: -4259421147170033708
+    second: wolfsheet1_69
+  - first:
+      213: 3725356210818927640
+    second: wolfsheet1_70
+  - first:
+      213: 4344560854053686414
+    second: wolfsheet1_71
+  - first:
+      213: -3265749810066490252
+    second: wolfsheet1_72
+  - first:
+      213: -5070951092222511433
+    second: wolfsheet1_73
+  - first:
+      213: 15371695283632452
+    second: wolfsheet1_74
+  - first:
+      213: 1725987444086644831
+    second: wolfsheet1_75
+  - first:
+      213: -4655037516027877370
+    second: wolfsheet1_76
+  - first:
+      213: 6332172630779795228
+    second: wolfsheet1_77
+  - first:
+      213: -6309918262608523299
+    second: wolfsheet1_0
+  - first:
+      213: -8337728933610183073
+    second: wolfsheet1_1
+  - first:
+      213: -7263582028327690994
+    second: wolfsheet1_2
+  - first:
+      213: -7785661765741991688
+    second: wolfsheet1_3
+  - first:
+      213: -3317305475723852395
+    second: wolfsheet1_4
+  - first:
+      213: 3125547276905501134
+    second: wolfsheet1_5
+  - first:
+      213: 3162596280829748234
+    second: wolfsheet1_6
+  - first:
+      213: 2349753519730035905
+    second: wolfsheet1_7
+  - first:
+      213: -1976056920019816595
+    second: wolfsheet1_8
+  - first:
+      213: -3839255007272456744
+    second: wolfsheet1_9
+  - first:
+      213: 4822928165382172814
+    second: wolfsheet1_10
+  - first:
+      213: -4556193327772573169
+    second: wolfsheet1_11
+  - first:
+      213: 4086191193210194657
+    second: wolfsheet1_12
+  - first:
+      213: 1090609553609554937
+    second: wolfsheet1_13
+  - first:
+      213: -4485431935910647694
+    second: wolfsheet1_14
+  - first:
+      213: 9113739984251513950
+    second: wolfsheet1_15
+  - first:
+      213: 7601346316951244277
+    second: wolfsheet1_16
+  - first:
+      213: 2177694066566018417
+    second: wolfsheet1_17
+  - first:
+      213: 3391786106556890234
+    second: wolfsheet1_18
+  - first:
+      213: 1608630366873618792
+    second: wolfsheet1_19
+  - first:
+      213: -3489244159737189717
+    second: wolfsheet1_20
+  - first:
+      213: -1553151482001566295
+    second: wolfsheet1_21
+  - first:
+      213: 4112021976202351065
+    second: wolfsheet1_22
+  - first:
+      213: -7588914346249722188
+    second: wolfsheet1_23
+  - first:
+      213: 3603669831100524704
+    second: wolfsheet1_24
+  - first:
+      213: -2780941500551409802
+    second: wolfsheet1_25
+  - first:
+      213: 3152656646708201665
+    second: wolfsheet1_26
+  - first:
+      213: 1499392875291736633
+    second: wolfsheet1_27
+  - first:
+      213: 2187277092277990297
+    second: wolfsheet1_28
+  - first:
+      213: -3587390070908225811
+    second: wolfsheet1_29
+  - first:
+      213: 226934097968582963
+    second: wolfsheet1_30
+  - first:
+      213: 7248182480191076685
+    second: wolfsheet1_31
+  - first:
+      213: -660419970275419753
+    second: wolfsheet1_32
+  - first:
+      213: -5204225466084671582
+    second: wolfsheet1_33
+  - first:
+      213: -4385168472681463656
+    second: wolfsheet1_34
+  - first:
+      213: -5345768874674417555
+    second: wolfsheet1_35
+  - first:
+      213: -6434012108750503902
+    second: wolfsheet1_36
+  - first:
+      213: 4904770744481610373
+    second: wolfsheet1_37
+  - first:
+      213: 5859748543433698223
+    second: wolfsheet1_38
+  - first:
+      213: -1885225783077603470
+    second: wolfsheet1_39
+  - first:
+      213: -8254319398059924041
+    second: wolfsheet1_40
+  - first:
+      213: 171572982065788821
+    second: wolfsheet1_41
+  - first:
+      213: -5558676433244597200
+    second: wolfsheet1_42
+  - first:
+      213: -847006045624661932
+    second: wolfsheet1_43
+  - first:
+      213: -5793821441945173449
+    second: wolfsheet1_44
+  - first:
+      213: -4409635512490357754
+    second: wolfsheet1_45
+  - first:
+      213: 5745280240299106113
+    second: wolfsheet1_46
+  - first:
+      213: 1936624898267942957
+    second: wolfsheet1_47
+  - first:
+      213: 6970395973191379451
+    second: wolfsheet1_48
+  - first:
+      213: 4479052868871515185
+    second: wolfsheet1_49
+  - first:
+      213: -2164720391371144993
+    second: wolfsheet1_50
+  - first:
+      213: -211850812603051760
+    second: wolfsheet1_51
+  - first:
+      213: -6616314641525618977
+    second: wolfsheet1_52
+  - first:
+      213: -1504146721633412805
+    second: wolfsheet1_53
+  - first:
+      213: -482019234230302199
+    second: wolfsheet1_54
+  - first:
+      213: 7228150664242389037
+    second: wolfsheet1_55
+  - first:
+      213: 1689979392956423700
+    second: wolfsheet1_56
+  - first:
+      213: -5680444199706302487
+    second: wolfsheet1_57
+  - first:
+      213: 555456321878578819
+    second: wolfsheet1_58
+  - first:
+      213: 8843113592264823546
+    second: wolfsheet1_59
+  - first:
+      213: 5425449293214532924
+    second: wolfsheet1_60
+  - first:
+      213: 4154480906537692962
+    second: wolfsheet1_61
+  - first:
+      213: -4726699337224303242
+    second: wolfsheet1_62
+  - first:
+      213: -7317169302904739573
+    second: wolfsheet1_63
+  - first:
+      213: 8917813849866794571
+    second: wolfsheet1_64
+  - first:
+      213: 1629569331200749994
+    second: wolfsheet1_65
+  - first:
+      213: 1089046013195563295
+    second: wolfsheet1_66
+  - first:
+      213: 5497829331381429793
+    second: wolfsheet1_67
+  - first:
+      213: 465880619086421439
+    second: wolfsheet1_68
+  - first:
+      213: -1533985694893943060
+    second: wolfsheet1_69
+  - first:
+      213: -5321166084930116987
+    second: wolfsheet1_70
+  - first:
+      213: -6752024538769419851
+    second: wolfsheet1_71
+  - first:
+      213: -7759913972229564182
+    second: wolfsheet1_72
+  - first:
+      213: -6012726253228001946
+    second: wolfsheet1_73
+  - first:
+      213: 6466181591945878044
+    second: wolfsheet1_74
+  - first:
+      213: 8637064837821583176
+    second: wolfsheet1_75
+  - first:
+      213: -8472403940515435165
+    second: wolfsheet1_76
+  - first:
+      213: 6589948521919119006
+    second: wolfsheet1_77
+  - first:
+      213: 687363239202494912
+    second: wolfsheet1_78
+  - first:
+      213: 1286922235630176249
+    second: wolfsheet1_79
+  - first:
+      213: -8237135815228058999
+    second: wolfsheet1_80
+  - first:
+      213: 1284935263021939735
+    second: wolfsheet1_81
+  - first:
+      213: -4772576281451874741
+    second: wolfsheet1_82
+  - first:
+      213: -6759107567463543592
+    second: wolfsheet1_83
+  - first:
+      213: -1310398855945326924
+    second: wolfsheet1_84
+  - first:
+      213: -2790691446186592163
+    second: wolfsheet1_85
+  - first:
+      213: 1009456455562522813
+    second: wolfsheet1_86
+  - first:
+      213: 6001894417703427381
+    second: wolfsheet1_87
+  - first:
+      213: -1134859446918203463
+    second: wolfsheet1_88
+  - first:
+      213: -8633949570949234904
+    second: wolfsheet1_89
+  - first:
+      213: 3002842605121228305
+    second: wolfsheet1_90
+  - first:
+      213: 4085544845985249458
+    second: wolfsheet1_91
+  - first:
+      213: -2213138502043252615
+    second: wolfsheet1_92
+  - first:
+      213: -4619466705723533859
+    second: wolfsheet1_93
+  - first:
+      213: 3799011465130978356
+    second: wolfsheet1_94
+  - first:
+      213: -6370749181850176194
+    second: wolfsheet1_95
+  - first:
+      213: -1026478909733961019
+    second: wolfsheet1_96
+  - first:
+      213: 8183284226460915633
+    second: wolfsheet1_97
+  - first:
+      213: -2681307700387711961
+    second: wolfsheet1_98
+  - first:
+      213: -7719723979270757640
+    second: wolfsheet1_99
+  - first:
+      213: 5484194578630889749
+    second: wolfsheet1_100
+  - first:
+      213: -3459763254270940313
+    second: wolfsheet1_101
+  - first:
+      213: 4576755936956897311
+    second: wolfsheet1_102
+  - first:
+      213: -2738406182493146045
+    second: wolfsheet1_103
+  - first:
+      213: -3218964710859692208
+    second: wolfsheet1_104
+  - first:
+      213: 2667597534569924455
+    second: wolfsheet1_105
+  - first:
+      213: 726623386141837443
+    second: wolfsheet1_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolfsheet1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf087385caae68a0800000000000000
+      internalID: -6309918262608523299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562ba6c5bf6a4c80800000000000000
+      internalID: -8337728933610183073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ddd9c11a2923b90800000000000000
+      internalID: -7263582028327690994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ab9fcfd5c3f390800000000000000
+      internalID: -7785661765741991688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5958504ee3096f1d0800000000000000
+      internalID: -3317305475723852395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec154a040bc206b20800000000000000
+      internalID: 3125547276905501134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 361
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b4da0d9b7ee240800000000000000
+      internalID: 4822928165382172814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 361
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026c12ee4625c0c0800000000000000
+      internalID: -4556193327772573169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 361
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8f9b9d3115b830800000000000000
+      internalID: 4086191193210194657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 361
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7b875c9f922f00800000000000000
+      internalID: 1090609553609554937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4a9c93386d7960800000000000000
+      internalID: 7601346316951244277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175b4233739b83e10800000000000000
+      internalID: 2177694066566018417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cbd635e7b021f20800000000000000
+      internalID: 3391786106556890234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8698868bbc0035610800000000000000
+      internalID: 1608630366873618792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5dce0c4f8127ae0800000000000000
+      internalID: -1553151482001566295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d114207336d01930800000000000000
+      internalID: 4112021976202351065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66be02c92cea690800000000000000
+      internalID: -7588914346249722188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e98a4e9ec20230800000000000000
+      internalID: 3603669831100524704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c801d5448c70cb20800000000000000
+      internalID: 3152656646708201665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af38e30e9eec410800000000000000
+      internalID: 1499392875291736633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993349e3de4ca5e10800000000000000
+      internalID: 2187277092277990297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_29
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de670c0ccb7073ec0800000000000000
+      internalID: -3587390070908225811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d82d3987b5d6f0800000000000000
+      internalID: -660419970275419753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af3bf20380e6c7b0800000000000000
+      internalID: -5204225466084671582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8904499f180c423c0800000000000000
+      internalID: -4385168472681463656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6011b5188300d5b0800000000000000
+      internalID: -5345768874674417555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58afd89610f311440800000000000000
+      internalID: 4904770744481610373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6a740142025150800000000000000
+      internalID: 5859748543433698223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277704e732556d5e0800000000000000
+      internalID: -1885225783077603470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5a500ad34c27d80800000000000000
+      internalID: -8254319398059924041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 263
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034de1f2c3d9bd2b0800000000000000
+      internalID: -5558676433244597200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 263
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580fe73d74de34f0800000000000000
+      internalID: -847006045624661932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_44
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 263
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73201d47816389fa0800000000000000
+      internalID: -5793821441945173449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 263
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c80195dd3ddc2c0800000000000000
+      internalID: -4409635512490357754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_46
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 263
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f591250f55bbf40800000000000000
+      internalID: 5745280240299106113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 230
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a2e5f432dbb060800000000000000
+      internalID: 6970395973191379451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 230
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ce74b6adac82e30800000000000000
+      internalID: 4479052868871515185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 230
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04742f54e55f1e0800000000000000
+      internalID: -2164720391371144993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 230
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011da61feca5f0df0800000000000000
+      internalID: -211850812603051760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_52
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 230
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd646a563e02e24a0800000000000000
+      internalID: -6616314641525618977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0cc07f068f49f0800000000000000
+      internalID: -482019234230302199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20eb259bbc8f4460800000000000000
+      internalID: 7228150664242389037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed5e2dd43047710800000000000000
+      internalID: 1689979392956423700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7e31eb8120b21b0800000000000000
+      internalID: -5680444199706302487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38651d1f49065b700800000000000000
+      internalID: 555456321878578819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af29f5795fc09ba70800000000000000
+      internalID: 8843113592264823546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3542fc03611b4b40800000000000000
+      internalID: 5425449293214532924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f62548f5ea7a930800000000000000
+      internalID: 4154480906537692962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dcba4fef3676eb0800000000000000
+      internalID: -4726699337224303242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 135
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0968fa7941347a90800000000000000
+      internalID: -7317169302904739573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 197
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467e56a27072cb70800000000000000
+      internalID: 8917813849866794571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 197
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa177134ca46d9610800000000000000
+      internalID: 1629569331200749994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 197
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b39834911d1f00800000000000000
+      internalID: 1089046013195563295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_67
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 197
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a6bce5a63c4c40800000000000000
+      internalID: 5497829331381429793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_68
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 197
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd926864f3277600800000000000000
+      internalID: 465880619086421439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 164
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58262e473ab6726b0800000000000000
+      internalID: -5321166084930116987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_71
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 164
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b19deba47dfb42a0800000000000000
+      internalID: -6752024538769419851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_72
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 164
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae89aa52b5f3f4490800000000000000
+      internalID: -7759913972229564182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_73
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 164
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fda854518e8ca0800000000000000
+      internalID: -6012726253228001946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d25fb3189fb6a80800000000000000
+      internalID: -8472403940515435165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_77
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e79110443347b50800000000000000
+      internalID: 6589948521919119006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9935869310a8900800000000000000
+      internalID: 687363239202494912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c94474f01cd110800000000000000
+      internalID: 1286922235630176249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821fa64e90dfad80800000000000000
+      internalID: -8237135815228058999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbbc750d105d110800000000000000
+      internalID: 1284935263021939735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463b90882764cdb0800000000000000
+      internalID: -4772576281451874741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_83
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4eaa8a73d232a0800000000000000
+      internalID: -6759107567463543592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beec4dee2780dde0800000000000000
+      internalID: -1310398855945326924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_85
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 70
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b3585ae87549d0800000000000000
+      internalID: -2790691446186592163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0770a4c4f420e00800000000000000
+      internalID: 1009456455562522813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ddc9a6c230b4350800000000000000
+      internalID: 6001894417703427381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_88
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b174885b2040f0800000000000000
+      internalID: -1134859446918203463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_89
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3fee1c9c0e2880800000000000000
+      internalID: -8633949570949234904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c8f2124a5941e0800000000000000
+      internalID: -2213138502043252615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 66
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5da91918b54efb0800000000000000
+      internalID: -4619466705723533859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 66
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca4ccacccc8b430800000000000000
+      internalID: 3799011465130978356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b5be6f5d8697a0800000000000000
+      internalID: -6370749181850176194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 33
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79246a5add09170800000000000000
+      internalID: 8183284226460915633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 33
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724fed84ad41acad0800000000000000
+      internalID: -2681307700387711961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_99
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 33
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2608311f70ed490800000000000000
+      internalID: -7719723979270757640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_100
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 33
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511da6aa9e5cb1c40800000000000000
+      internalID: 5484194578630889749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d9f5a647e38f30800000000000000
+      internalID: 4576755936956897311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_103
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34433c1f51a3ff9d0800000000000000
+      internalID: -2738406182493146045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a0b876a0f353d0800000000000000
+      internalID: -3218964710859692208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfsheet1_105
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7678fbbf2d5350520800000000000000
+      internalID: 2667597534569924455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

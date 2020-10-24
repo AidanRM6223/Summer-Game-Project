@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player
+  m_Shader: {fileID: -6465566751694194690, guid: 8b6e3b64c80ee3e4a8966a2eb81d5a9b,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_5CA4A2BB:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A07CF345:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: -7697372934157681517, guid: 76ad405bd33835d4287690e42d5877b6,
+          type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PlayerShading:
+        m_Texture: {fileID: 18700000, guid: e7badd8b60fce4d4e9213fac6ab224e3, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_5ACC11A6_Out_0:
+        m_Texture: {fileID: 2800000, guid: 8ea5fa8b36a753b41978a8b57a9e8e19, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_6070A252: {r: 0, g: 0.972549, b: 0.9019608, a: 0}
+    - _EyeColor: {r: 1, g: 0, b: 0.76618344, a: 0}
+    - _GunColor: {r: 1, g: 0.099, b: 0, a: 0}
+    - _ShoeLightning: {r: 0, g: 3.890196, b: 3.607843, a: 0}
+    - _TailColor: {r: 1, g: 0.5997325, b: 0, a: 0}
